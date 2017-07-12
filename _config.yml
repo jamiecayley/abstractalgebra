@@ -8,11 +8,11 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            B for Best Presents
-tagline:          MAT1041 General Election
-description:      "The wiki for our MAT1041 UK general election project!"
-url:              https://github.com/jamiecayley/MAT1041
-baseurl:          /MAT1041/
+title:            Abstract Algebra
+tagline:          Abstract Algebra
+description:      "An abstract algebra guide"
+url:              https://github.com/jamiecayley/abstractalgebra
+baseurl:          /abstractalgebra/
 
 author:
   name:           'Jamie Calley'
@@ -24,5 +24,5 @@ paginate:         5
 version:          1.0.0
 
 github:
-  repo:           https://github.com/jamiecayley/MAT1041
-repository:       jamiecalley/MAT1041
+  repo:           https://github.com/jamiecayley/abstractalgebra
+repository:       jamiecalley/abstractalgebra
