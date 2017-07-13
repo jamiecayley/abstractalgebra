@@ -15,4 +15,4 @@ This series is primarily meant to help me study by forcing me to consolidate my 
 
 # About me
 
-My name is Jamie and I'm an MMath student at the University of Surrey. Before being a student at Surrey I spent a year studing math at UC Berkeley and before then I was self-schooled. As of last year I thought the focus of my mathematical career would be abstract algebra but since then I took an introductory real analysis class which I really enjoy, so I guess we'll see where things go from here. 
+My name is Jamie and I'm an MMath student at the University of Surrey. Before being a student at Surrey I spent a year studing math at UC Berkeley and before then I was self-schooled. As of last year I thought the focus of my mathematical career would be abstract algebra but since then I took an introductory real analysis class which I really enjoyed, so I guess we'll see where things go from here. 
