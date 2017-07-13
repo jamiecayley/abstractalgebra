@@ -11,7 +11,7 @@ This was made using [Jekyll](http://jekyllrb.com/) and it is hosted on [github p
 
 # About the content
 
-This series is primarily meant to help me study by forcing me to consolidate my notes and thoughts into a format that is easy for others to understand and that it is easily accessible and harder to lose that the handwritten notes currently contained on my clipboard. The content in this notes might include excerpts from my lecture notes from Math 113 taught by professor Rieffel at UC Berkeley in Fall 2015, Math 113 taught by professor Rideau at UC Berkeley in Spring 2016, Math 120 taught by professor Vakil at Stanford in Fall 2014 and the textbooks Abstract Algebra by Dummit and Foote; Algebra, Abstract and Concrete by Goodman (which is available for free here) and Algebra by Lang. 
+This series is primarily meant to help me study by forcing me to consolidate my notes and thoughts into a format that is easy for others to understand and that it is easily accessible and harder to lose that the handwritten notes currently contained on my clipboard. The content in this notes might include excerpts from my lecture notes from Math 113 taught by professor Rieffel at UC Berkeley in Fall 2015, Math 113 taught by professor Rideau at UC Berkeley in Spring 2016, Math 120 taught by professor Vakil at Stanford in Fall 2014 and the textbooks Abstract Algebra by Dummit and Foote; Algebra, Abstract and Concrete by Goodman (which is available for free [here](http://homepage.divms.uiowa.edu/~goodman/algebrabook.dir/download.htm)) and Algebra by Lang. 
 
 # About me
 
