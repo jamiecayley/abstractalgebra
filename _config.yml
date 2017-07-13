@@ -1,7 +1,10 @@
 # Plugins
 gems:             ['jekyll-paginate', 'jekyll-gist', 'jekyll-github-metadata']
 
+
 # Dependencies
+markdown: kramdown
+mathjax: true
 highlighter:      rouge
 
 # Permalinks
