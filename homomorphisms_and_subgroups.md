@@ -36,5 +36,5 @@ Let G be a group and H a subset of G. We say H is a subgroup of G if H is nonemp
 
 Proposition: Let $$f: G \rightarrow H$$ be a homomorphism. Then $$f(G) \leq H, f^{-1}(\{1+H\})\leq G$$. More generally, if $$K \leq G$$ then $$f(K) \leq H$$ and if $$L \leq H$$ then $$f^{-1}(L) \leq G$$
 
-Proof: $$x, y \in f(K), x = f(s), y = f(t) \rightarrow s, t \in K. x\cdot y^{-1} = f(s)f(t)^{-1} = f(s\cdot t^{-1}) \in f(K)$$. $$x, y \in f^{-1}(L), f(x), f(y) \in L$$.
+Proof: $$x, y \in f(K), x = f(s), y = f(t) \rightarrow s, t \in K$$ $$x\cdot y^{-1} = f(s)f(t)^{-1} = f(s\cdot t^{-1}) \in f(K)$$. $$x, y \in f^{-1}(L), f(x), f(y) \in L$$.
 $$f(x\cdot y^{-1}) = f(x)f(y^{-1}) \in L$$.
