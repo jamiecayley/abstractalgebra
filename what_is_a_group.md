@@ -6,7 +6,7 @@ order: 1
 
 Groups are what most introductory abstract algebra courses focus on, as it is a really useful algebraic structure and learning about it serves as a basis for learning about all the other exciting algebraic structures we'll learn about in this post series. 
 
-Intuitively it is a collection of elements such that you can combine any two elements on it, there is one element that combined with any of the elements on it results in just the element you combined it with, and there are elements that are capable of undoing the element combinations. 
+Intuitively it is a collection of elements such that you can combine any two elements in it, there is one element that combined with any of the elements on it results in just the element you combined it with, and there are elements that are capable of undoing the element combinations. 
 
 In math speech, a group is a set G equipped with a binary operation, ie a function $$G \times G \rightarrow G$$ which is associative and for which there is an identity element and every element is invertible. In math notation: a group is a set G with a binary operation $$ \cdot $$ such that 
 
