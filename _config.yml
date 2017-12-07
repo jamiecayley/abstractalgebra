@@ -18,7 +18,7 @@ url:              https://github.com/jamiecayley/abstractalgebra
 baseurl:          /abstractalgebra/
 
 author:
-  name:           'Jamie Calley'
+  name:           'Jamie Cayley'
   url:            https://github.com/jamiecayley
 
 paginate:         5
@@ -28,4 +28,4 @@ version:          1.0.0
 
 github:
   repo:           https://github.com/jamiecayley/abstractalgebra
-repository:       jamiecalley/abstractalgebra
+repository:       jamiecayley/abstractalgebra
