@@ -2,7 +2,7 @@
 layout: page
 title: What is a group?
 order: 1
-
+---
 <style TYPE="text/css">
 code.has-jax {font: inherit; font-size: 100%; background: inherit; border: inherit;}
 </style>
@@ -21,8 +21,7 @@ MathJax.Hub.Queue(function() {
 });
 </script>
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
----
-
+    
 Groups are what most introductory abstract algebra courses focus on, as it is a really useful algebraic structure and learning about it serves as a basis for learning about all the other exciting algebraic structures we'll learn about in this post series. 
 
 Intuitively it is a collection of elements such that you can combine any two elements in it, there is one element that combined with any of the elements on it results in just the element you combined it with, and there are elements that are capable of undoing the element combinations. 
